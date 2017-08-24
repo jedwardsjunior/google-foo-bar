@@ -5,6 +5,10 @@ Author: Julia Edwards
 Date: August 2017
 Github: jedwardsjunior
 
+Inspired by xphoniex's Java solution that can be found here:
+https://github.com/xphoniex/Google-Foobar/blob/master/bringing_a_gun_to_a_guard_fight_answer.java
+
+
 
 
 Prompt from Google foo.bar:
