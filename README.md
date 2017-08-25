@@ -1,2 +1,2 @@
 # google-foo-bar
-My answers to the Google foo.bar challenge (in Python)
+My answers to the Google foo.bar challenge (in Python).
